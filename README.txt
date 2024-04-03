@@ -1,1 +1,1 @@
-Fait par Axel Laisney et Vincent Platet B3C3
+Programme de simulation de tournoi de pétanque sous JAVA
